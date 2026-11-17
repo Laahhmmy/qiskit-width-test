@@ -1,2 +1,5 @@
 # qiskit-width-test
-A Qiskit experiment that compares how often 2-, 4-, and 6-qubit circuits return at least one incorrect bit when each bit has a 5% chance of being misread.
+Group Members: Lam Le and Sean McGarrity
+Research Question: Does a 6-qubit circuit return the wrong result more often than a 2-qubit circuit under the same readout noise?
+
+
