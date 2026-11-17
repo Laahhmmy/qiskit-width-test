@@ -2,7 +2,7 @@
 
 ### 1. The QEM Zoo — Readout Error Mitigation
 
-Readout errors happen when a qubit’s measurement is recorded incorrectly, such as when a `0` is reported as a `1`. An *ssignment matrix describes the probability of recording each output given the ideal result. Researchers can use this matrix to correct the measured distribution, but the correction can amplify statistical fluctuations and require more runs for a reliable estimate. [The QEM Zoo](https://qemzoo.com/)
+Readout errors happen when a qubit’s measurement is recorded incorrectly, such as when a `0` is reported as a `1`. An Assignment matrix describes the probability of recording each output given the ideal result. Researchers can use this matrix to correct the measured distribution, but the correction can amplify statistical fluctuations and require more runs for a reliable estimate. [The QEM Zoo](https://qemzoo.com/)
 
 ### 2. Bravyi et al. (2021) — Mitigating Measurement Errors in Multiqubit Experiments
 
